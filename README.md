@@ -67,12 +67,6 @@ Webcam Feed
 
 ---
 
-## 📸 Demo
-
-> *(Screenshots and demo GIF coming soon)*
-
----
-
 ## ⚙️ Setup & Run
 
 ```bash
